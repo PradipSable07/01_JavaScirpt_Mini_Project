@@ -124,7 +124,7 @@ copyBtn.addEventListener("click", () => {
   if (passwordDisplay.value) {
     copyContent();
   }
-  console.log("copy done");
+  // console.log("copy done");
 });
 
 function handleCheckBoxChange() {
